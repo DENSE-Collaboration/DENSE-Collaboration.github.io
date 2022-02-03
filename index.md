@@ -27,3 +27,11 @@ This project gives one answer to the question!
 
 - **JPS 16th Young Researcher Encouragement Award / 23rd Nuclear Theory Paper Award**, The Physical Society of Japan (JPS), March, 2022<br/>
   Yuki Fujimoto, *Mapping neutron star data to the equation of state using the deep neural network* <!-- 深層学習を用いた中性子星物質の状態方程式の決定 -->
+
+## Acknowledgments
+
+This project is fully or partially supported by the following grants.
+
+- [JSPS KAKENHI Grant No. 20J10506](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J10506/) (YF)
+- [JSPS KAKENHI Grant No. 19K21874](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K21874/) (KF)
+- [JSPS KAKENHI Grant No. 18H01211](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18H01211/) (KF)
