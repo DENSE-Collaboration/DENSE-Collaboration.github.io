@@ -6,8 +6,13 @@ How can we reconstruct the equation of state in neutron stars from observations?
 This project gives one answer to the question!
 
 - [GitHub Organization](https://github.com/DENSE-Collaboration)
+- [People](https://github.com/orgs/DENSE-Collaboration/people)
 
 ## Introduction
+
+[TBA later]
+
+## Downloads
 
 [TBA later]
 
@@ -35,3 +40,9 @@ This project is fully or partially supported by the following grants.
 - [JSPS KAKENHI Grant No. 20J10506](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J10506/) (YF)
 - [JSPS KAKENHI Grant No. 19K21874](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K21874/) (KF)
 - [JSPS KAKENHI Grant No. 18H01211](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18H01211/) (KF)
+
+----
+
+<p align="center">Contact e-mail address: DENSE Collaboration &lt;TBA@TBA><br/>
+  Hadron Theoretical Physics, Nuclear Theory (A0), Department of Physics, School of Science, The University of Tokyo,<br/>
+  <i>7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8654, Japan.</i></p>
